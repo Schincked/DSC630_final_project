@@ -1,4 +1,4 @@
-# DSC630 Final Project
+# NVIDIA Stock Analysis
 
 ## Team Members
 - Hunter Fernandez
